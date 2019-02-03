@@ -1,0 +1,414 @@
+rm SN2006bp_w2_rate.img
+rm SN2006bp_w2_temp.img
+rm SN2006bp_w2_temp2.img
+fextract SN2006bp_w2.img[0] SN2006bp_w2_rate.img
+fextract SN2006bp_w2.img[1] SN2006bp_w2_temp.img
+fcarith SN2006bp_w2_temp.img[1] 1462.09 SN2006bp_w2_temp2.img / 
+ftappend SN2006bp_w2_temp2.img SN2006bp_w2_rate.img
+rm SN2006bp_w2_temp.img
+rm SN2006bp_w2_temp2.img
+fextract SN2006bp_w2.img[2] SN2006bp_w2_temp.img
+fcarith SN2006bp_w2_temp.img[1] 1462.09 SN2006bp_w2_temp2.img / 
+ftappend SN2006bp_w2_temp2.img SN2006bp_w2_rate.img
+rm SN2006bp_w2_temp.img
+rm SN2006bp_w2_temp2.img
+fextract SN2006bp_w2.img[3] SN2006bp_w2_temp.img
+fcarith SN2006bp_w2_temp.img[1] 1462.09 SN2006bp_w2_temp2.img / 
+ftappend SN2006bp_w2_temp2.img SN2006bp_w2_rate.img
+rm SN2006bp_w2_temp.img
+rm SN2006bp_w2_temp2.img
+fextract SN2006bp_w2.img[4] SN2006bp_w2_temp.img
+fcarith SN2006bp_w2_temp.img[1] 1462.09 SN2006bp_w2_temp2.img / 
+ftappend SN2006bp_w2_temp2.img SN2006bp_w2_rate.img
+rm SN2006bp_w2_temp.img
+rm SN2006bp_w2_temp2.img
+fextract SN2006bp_w2.img[5] SN2006bp_w2_temp.img
+fcarith SN2006bp_w2_temp.img[1] 1462.09 SN2006bp_w2_temp2.img / 
+ftappend SN2006bp_w2_temp2.img SN2006bp_w2_rate.img
+rm SN2006bp_w2_temp.img
+rm SN2006bp_w2_temp2.img
+fextract SN2006bp_w2.img[6] SN2006bp_w2_temp.img
+fcarith SN2006bp_w2_temp.img[1] 1462.09 SN2006bp_w2_temp2.img / 
+ftappend SN2006bp_w2_temp2.img SN2006bp_w2_rate.img
+rm SN2006bp_w2_temp.img
+rm SN2006bp_w2_temp2.img
+fextract SN2006bp_w2.img[7] SN2006bp_w2_temp.img
+fcarith SN2006bp_w2_temp.img[1] 1462.09 SN2006bp_w2_temp2.img / 
+ftappend SN2006bp_w2_temp2.img SN2006bp_w2_rate.img
+rm SN2006bp_w2_temp.img
+rm SN2006bp_w2_temp2.img
+fextract SN2006bp_w2.img[8] SN2006bp_w2_temp.img
+fcarith SN2006bp_w2_temp.img[1] 1462.09 SN2006bp_w2_temp2.img / 
+ftappend SN2006bp_w2_temp2.img SN2006bp_w2_rate.img
+rm SN2006bp_w2_temp.img
+rm SN2006bp_w2_temp2.img
+fextract SN2006bp_w2.img[9] SN2006bp_w2_temp.img
+fcarith SN2006bp_w2_temp.img[1] 1462.09 SN2006bp_w2_temp2.img / 
+ftappend SN2006bp_w2_temp2.img SN2006bp_w2_rate.img
+rm SN2006bp_w2_temp.img
+rm SN2006bp_w2_temp2.img
+fextract SN2006bp_w2.img[10] SN2006bp_w2_temp.img
+fcarith SN2006bp_w2_temp.img[1] 1462.09 SN2006bp_w2_temp2.img / 
+ftappend SN2006bp_w2_temp2.img SN2006bp_w2_rate.img
+rm SN2006bp_w2_temp.img
+rm SN2006bp_w2_temp2.img
+fextract SN2006bp_w2.img[11] SN2006bp_w2_temp.img
+fcarith SN2006bp_w2_temp.img[1] 1462.09 SN2006bp_w2_temp2.img / 
+ftappend SN2006bp_w2_temp2.img SN2006bp_w2_rate.img
+rm SN2006bp_w2_temp.img
+rm SN2006bp_w2_temp2.img
+fextract SN2006bp_w2.img[12] SN2006bp_w2_temp.img
+fcarith SN2006bp_w2_temp.img[1] 1462.09 SN2006bp_w2_temp2.img / 
+ftappend SN2006bp_w2_temp2.img SN2006bp_w2_rate.img
+rm SN2006bp_w2_temp.img
+rm SN2006bp_w2_temp2.img
+fextract SN2006bp_w2.img[13] SN2006bp_w2_temp.img
+fcarith SN2006bp_w2_temp.img[1] 1462.09 SN2006bp_w2_temp2.img / 
+ftappend SN2006bp_w2_temp2.img SN2006bp_w2_rate.img
+rm SN2006bp_w2_temp.img
+rm SN2006bp_w2_temp2.img
+rm SN2006bp_m2_rate.img
+rm SN2006bp_m2_temp.img
+rm SN2006bp_m2_temp2.img
+fextract SN2006bp_m2.img[0] SN2006bp_m2_rate.img
+fextract SN2006bp_m2.img[1] SN2006bp_m2_temp.img
+fcarith SN2006bp_m2_temp.img[1] 1026.28 SN2006bp_m2_temp2.img / 
+ftappend SN2006bp_m2_temp2.img SN2006bp_m2_rate.img
+rm SN2006bp_m2_temp.img
+rm SN2006bp_m2_temp2.img
+fextract SN2006bp_m2.img[2] SN2006bp_m2_temp.img
+fcarith SN2006bp_m2_temp.img[1] 1026.28 SN2006bp_m2_temp2.img / 
+ftappend SN2006bp_m2_temp2.img SN2006bp_m2_rate.img
+rm SN2006bp_m2_temp.img
+rm SN2006bp_m2_temp2.img
+fextract SN2006bp_m2.img[3] SN2006bp_m2_temp.img
+fcarith SN2006bp_m2_temp.img[1] 1026.28 SN2006bp_m2_temp2.img / 
+ftappend SN2006bp_m2_temp2.img SN2006bp_m2_rate.img
+rm SN2006bp_m2_temp.img
+rm SN2006bp_m2_temp2.img
+fextract SN2006bp_m2.img[4] SN2006bp_m2_temp.img
+fcarith SN2006bp_m2_temp.img[1] 1026.28 SN2006bp_m2_temp2.img / 
+ftappend SN2006bp_m2_temp2.img SN2006bp_m2_rate.img
+rm SN2006bp_m2_temp.img
+rm SN2006bp_m2_temp2.img
+fextract SN2006bp_m2.img[5] SN2006bp_m2_temp.img
+fcarith SN2006bp_m2_temp.img[1] 1026.28 SN2006bp_m2_temp2.img / 
+ftappend SN2006bp_m2_temp2.img SN2006bp_m2_rate.img
+rm SN2006bp_m2_temp.img
+rm SN2006bp_m2_temp2.img
+fextract SN2006bp_m2.img[6] SN2006bp_m2_temp.img
+fcarith SN2006bp_m2_temp.img[1] 1026.28 SN2006bp_m2_temp2.img / 
+ftappend SN2006bp_m2_temp2.img SN2006bp_m2_rate.img
+rm SN2006bp_m2_temp.img
+rm SN2006bp_m2_temp2.img
+fextract SN2006bp_m2.img[7] SN2006bp_m2_temp.img
+fcarith SN2006bp_m2_temp.img[1] 1026.28 SN2006bp_m2_temp2.img / 
+ftappend SN2006bp_m2_temp2.img SN2006bp_m2_rate.img
+rm SN2006bp_m2_temp.img
+rm SN2006bp_m2_temp2.img
+fextract SN2006bp_m2.img[8] SN2006bp_m2_temp.img
+fcarith SN2006bp_m2_temp.img[1] 1026.28 SN2006bp_m2_temp2.img / 
+ftappend SN2006bp_m2_temp2.img SN2006bp_m2_rate.img
+rm SN2006bp_m2_temp.img
+rm SN2006bp_m2_temp2.img
+fextract SN2006bp_m2.img[9] SN2006bp_m2_temp.img
+fcarith SN2006bp_m2_temp.img[1] 1026.28 SN2006bp_m2_temp2.img / 
+ftappend SN2006bp_m2_temp2.img SN2006bp_m2_rate.img
+rm SN2006bp_m2_temp.img
+rm SN2006bp_m2_temp2.img
+fextract SN2006bp_m2.img[10] SN2006bp_m2_temp.img
+fcarith SN2006bp_m2_temp.img[1] 1026.28 SN2006bp_m2_temp2.img / 
+ftappend SN2006bp_m2_temp2.img SN2006bp_m2_rate.img
+rm SN2006bp_m2_temp.img
+rm SN2006bp_m2_temp2.img
+fextract SN2006bp_m2.img[11] SN2006bp_m2_temp.img
+fcarith SN2006bp_m2_temp.img[1] 1026.28 SN2006bp_m2_temp2.img / 
+ftappend SN2006bp_m2_temp2.img SN2006bp_m2_rate.img
+rm SN2006bp_m2_temp.img
+rm SN2006bp_m2_temp2.img
+fextract SN2006bp_m2.img[12] SN2006bp_m2_temp.img
+fcarith SN2006bp_m2_temp.img[1] 1026.28 SN2006bp_m2_temp2.img / 
+ftappend SN2006bp_m2_temp2.img SN2006bp_m2_rate.img
+rm SN2006bp_m2_temp.img
+rm SN2006bp_m2_temp2.img
+fextract SN2006bp_m2.img[13] SN2006bp_m2_temp.img
+fcarith SN2006bp_m2_temp.img[1] 1026.28 SN2006bp_m2_temp2.img / 
+ftappend SN2006bp_m2_temp2.img SN2006bp_m2_rate.img
+rm SN2006bp_m2_temp.img
+rm SN2006bp_m2_temp2.img
+rm SN2006bp_w1_rate.img
+rm SN2006bp_w1_temp.img
+rm SN2006bp_w1_temp2.img
+fextract SN2006bp_w1.img[0] SN2006bp_w1_rate.img
+fextract SN2006bp_w1.img[1] SN2006bp_w1_temp.img
+fcarith SN2006bp_w1_temp.img[1] 1092.79 SN2006bp_w1_temp2.img / 
+ftappend SN2006bp_w1_temp2.img SN2006bp_w1_rate.img
+rm SN2006bp_w1_temp.img
+rm SN2006bp_w1_temp2.img
+fextract SN2006bp_w1.img[2] SN2006bp_w1_temp.img
+fcarith SN2006bp_w1_temp.img[1] 1092.79 SN2006bp_w1_temp2.img / 
+ftappend SN2006bp_w1_temp2.img SN2006bp_w1_rate.img
+rm SN2006bp_w1_temp.img
+rm SN2006bp_w1_temp2.img
+fextract SN2006bp_w1.img[3] SN2006bp_w1_temp.img
+fcarith SN2006bp_w1_temp.img[1] 1092.79 SN2006bp_w1_temp2.img / 
+ftappend SN2006bp_w1_temp2.img SN2006bp_w1_rate.img
+rm SN2006bp_w1_temp.img
+rm SN2006bp_w1_temp2.img
+fextract SN2006bp_w1.img[4] SN2006bp_w1_temp.img
+fcarith SN2006bp_w1_temp.img[1] 1092.79 SN2006bp_w1_temp2.img / 
+ftappend SN2006bp_w1_temp2.img SN2006bp_w1_rate.img
+rm SN2006bp_w1_temp.img
+rm SN2006bp_w1_temp2.img
+fextract SN2006bp_w1.img[5] SN2006bp_w1_temp.img
+fcarith SN2006bp_w1_temp.img[1] 1092.79 SN2006bp_w1_temp2.img / 
+ftappend SN2006bp_w1_temp2.img SN2006bp_w1_rate.img
+rm SN2006bp_w1_temp.img
+rm SN2006bp_w1_temp2.img
+fextract SN2006bp_w1.img[6] SN2006bp_w1_temp.img
+fcarith SN2006bp_w1_temp.img[1] 1092.79 SN2006bp_w1_temp2.img / 
+ftappend SN2006bp_w1_temp2.img SN2006bp_w1_rate.img
+rm SN2006bp_w1_temp.img
+rm SN2006bp_w1_temp2.img
+fextract SN2006bp_w1.img[7] SN2006bp_w1_temp.img
+fcarith SN2006bp_w1_temp.img[1] 1092.79 SN2006bp_w1_temp2.img / 
+ftappend SN2006bp_w1_temp2.img SN2006bp_w1_rate.img
+rm SN2006bp_w1_temp.img
+rm SN2006bp_w1_temp2.img
+fextract SN2006bp_w1.img[8] SN2006bp_w1_temp.img
+fcarith SN2006bp_w1_temp.img[1] 1092.79 SN2006bp_w1_temp2.img / 
+ftappend SN2006bp_w1_temp2.img SN2006bp_w1_rate.img
+rm SN2006bp_w1_temp.img
+rm SN2006bp_w1_temp2.img
+fextract SN2006bp_w1.img[9] SN2006bp_w1_temp.img
+fcarith SN2006bp_w1_temp.img[1] 1092.79 SN2006bp_w1_temp2.img / 
+ftappend SN2006bp_w1_temp2.img SN2006bp_w1_rate.img
+rm SN2006bp_w1_temp.img
+rm SN2006bp_w1_temp2.img
+fextract SN2006bp_w1.img[10] SN2006bp_w1_temp.img
+fcarith SN2006bp_w1_temp.img[1] 1092.79 SN2006bp_w1_temp2.img / 
+ftappend SN2006bp_w1_temp2.img SN2006bp_w1_rate.img
+rm SN2006bp_w1_temp.img
+rm SN2006bp_w1_temp2.img
+fextract SN2006bp_w1.img[11] SN2006bp_w1_temp.img
+fcarith SN2006bp_w1_temp.img[1] 1092.79 SN2006bp_w1_temp2.img / 
+ftappend SN2006bp_w1_temp2.img SN2006bp_w1_rate.img
+rm SN2006bp_w1_temp.img
+rm SN2006bp_w1_temp2.img
+fextract SN2006bp_w1.img[12] SN2006bp_w1_temp.img
+fcarith SN2006bp_w1_temp.img[1] 1092.79 SN2006bp_w1_temp2.img / 
+ftappend SN2006bp_w1_temp2.img SN2006bp_w1_rate.img
+rm SN2006bp_w1_temp.img
+rm SN2006bp_w1_temp2.img
+fextract SN2006bp_w1.img[13] SN2006bp_w1_temp.img
+fcarith SN2006bp_w1_temp.img[1] 1092.79 SN2006bp_w1_temp2.img / 
+ftappend SN2006bp_w1_temp2.img SN2006bp_w1_rate.img
+rm SN2006bp_w1_temp.img
+rm SN2006bp_w1_temp2.img
+rm SN2006bp_uu_rate.img
+rm SN2006bp_uu_temp.img
+rm SN2006bp_uu_temp2.img
+fextract SN2006bp_uu.img[0] SN2006bp_uu_rate.img
+fextract SN2006bp_uu.img[1] SN2006bp_uu_temp.img
+fcarith SN2006bp_uu_temp.img[1] 526.994 SN2006bp_uu_temp2.img / 
+ftappend SN2006bp_uu_temp2.img SN2006bp_uu_rate.img
+rm SN2006bp_uu_temp.img
+rm SN2006bp_uu_temp2.img
+fextract SN2006bp_uu.img[2] SN2006bp_uu_temp.img
+fcarith SN2006bp_uu_temp.img[1] 526.994 SN2006bp_uu_temp2.img / 
+ftappend SN2006bp_uu_temp2.img SN2006bp_uu_rate.img
+rm SN2006bp_uu_temp.img
+rm SN2006bp_uu_temp2.img
+fextract SN2006bp_uu.img[3] SN2006bp_uu_temp.img
+fcarith SN2006bp_uu_temp.img[1] 526.994 SN2006bp_uu_temp2.img / 
+ftappend SN2006bp_uu_temp2.img SN2006bp_uu_rate.img
+rm SN2006bp_uu_temp.img
+rm SN2006bp_uu_temp2.img
+fextract SN2006bp_uu.img[4] SN2006bp_uu_temp.img
+fcarith SN2006bp_uu_temp.img[1] 526.994 SN2006bp_uu_temp2.img / 
+ftappend SN2006bp_uu_temp2.img SN2006bp_uu_rate.img
+rm SN2006bp_uu_temp.img
+rm SN2006bp_uu_temp2.img
+fextract SN2006bp_uu.img[5] SN2006bp_uu_temp.img
+fcarith SN2006bp_uu_temp.img[1] 526.994 SN2006bp_uu_temp2.img / 
+ftappend SN2006bp_uu_temp2.img SN2006bp_uu_rate.img
+rm SN2006bp_uu_temp.img
+rm SN2006bp_uu_temp2.img
+fextract SN2006bp_uu.img[6] SN2006bp_uu_temp.img
+fcarith SN2006bp_uu_temp.img[1] 526.994 SN2006bp_uu_temp2.img / 
+ftappend SN2006bp_uu_temp2.img SN2006bp_uu_rate.img
+rm SN2006bp_uu_temp.img
+rm SN2006bp_uu_temp2.img
+fextract SN2006bp_uu.img[7] SN2006bp_uu_temp.img
+fcarith SN2006bp_uu_temp.img[1] 526.994 SN2006bp_uu_temp2.img / 
+ftappend SN2006bp_uu_temp2.img SN2006bp_uu_rate.img
+rm SN2006bp_uu_temp.img
+rm SN2006bp_uu_temp2.img
+fextract SN2006bp_uu.img[8] SN2006bp_uu_temp.img
+fcarith SN2006bp_uu_temp.img[1] 526.994 SN2006bp_uu_temp2.img / 
+ftappend SN2006bp_uu_temp2.img SN2006bp_uu_rate.img
+rm SN2006bp_uu_temp.img
+rm SN2006bp_uu_temp2.img
+fextract SN2006bp_uu.img[9] SN2006bp_uu_temp.img
+fcarith SN2006bp_uu_temp.img[1] 526.994 SN2006bp_uu_temp2.img / 
+ftappend SN2006bp_uu_temp2.img SN2006bp_uu_rate.img
+rm SN2006bp_uu_temp.img
+rm SN2006bp_uu_temp2.img
+fextract SN2006bp_uu.img[10] SN2006bp_uu_temp.img
+fcarith SN2006bp_uu_temp.img[1] 526.994 SN2006bp_uu_temp2.img / 
+ftappend SN2006bp_uu_temp2.img SN2006bp_uu_rate.img
+rm SN2006bp_uu_temp.img
+rm SN2006bp_uu_temp2.img
+fextract SN2006bp_uu.img[11] SN2006bp_uu_temp.img
+fcarith SN2006bp_uu_temp.img[1] 526.994 SN2006bp_uu_temp2.img / 
+ftappend SN2006bp_uu_temp2.img SN2006bp_uu_rate.img
+rm SN2006bp_uu_temp.img
+rm SN2006bp_uu_temp2.img
+fextract SN2006bp_uu.img[12] SN2006bp_uu_temp.img
+fcarith SN2006bp_uu_temp.img[1] 526.994 SN2006bp_uu_temp2.img / 
+ftappend SN2006bp_uu_temp2.img SN2006bp_uu_rate.img
+rm SN2006bp_uu_temp.img
+rm SN2006bp_uu_temp2.img
+fextract SN2006bp_uu.img[13] SN2006bp_uu_temp.img
+fcarith SN2006bp_uu_temp.img[1] 526.994 SN2006bp_uu_temp2.img / 
+ftappend SN2006bp_uu_temp2.img SN2006bp_uu_rate.img
+rm SN2006bp_uu_temp.img
+rm SN2006bp_uu_temp2.img
+rm SN2006bp_bb_rate.img
+rm SN2006bp_bb_temp.img
+rm SN2006bp_bb_temp2.img
+fextract SN2006bp_bb.img[0] SN2006bp_bb_rate.img
+fextract SN2006bp_bb.img[1] SN2006bp_bb_temp.img
+fcarith SN2006bp_bb_temp.img[1] 365.717 SN2006bp_bb_temp2.img / 
+ftappend SN2006bp_bb_temp2.img SN2006bp_bb_rate.img
+rm SN2006bp_bb_temp.img
+rm SN2006bp_bb_temp2.img
+fextract SN2006bp_bb.img[2] SN2006bp_bb_temp.img
+fcarith SN2006bp_bb_temp.img[1] 365.717 SN2006bp_bb_temp2.img / 
+ftappend SN2006bp_bb_temp2.img SN2006bp_bb_rate.img
+rm SN2006bp_bb_temp.img
+rm SN2006bp_bb_temp2.img
+fextract SN2006bp_bb.img[3] SN2006bp_bb_temp.img
+fcarith SN2006bp_bb_temp.img[1] 365.717 SN2006bp_bb_temp2.img / 
+ftappend SN2006bp_bb_temp2.img SN2006bp_bb_rate.img
+rm SN2006bp_bb_temp.img
+rm SN2006bp_bb_temp2.img
+fextract SN2006bp_bb.img[4] SN2006bp_bb_temp.img
+fcarith SN2006bp_bb_temp.img[1] 365.717 SN2006bp_bb_temp2.img / 
+ftappend SN2006bp_bb_temp2.img SN2006bp_bb_rate.img
+rm SN2006bp_bb_temp.img
+rm SN2006bp_bb_temp2.img
+fextract SN2006bp_bb.img[5] SN2006bp_bb_temp.img
+fcarith SN2006bp_bb_temp.img[1] 365.717 SN2006bp_bb_temp2.img / 
+ftappend SN2006bp_bb_temp2.img SN2006bp_bb_rate.img
+rm SN2006bp_bb_temp.img
+rm SN2006bp_bb_temp2.img
+fextract SN2006bp_bb.img[6] SN2006bp_bb_temp.img
+fcarith SN2006bp_bb_temp.img[1] 365.717 SN2006bp_bb_temp2.img / 
+ftappend SN2006bp_bb_temp2.img SN2006bp_bb_rate.img
+rm SN2006bp_bb_temp.img
+rm SN2006bp_bb_temp2.img
+fextract SN2006bp_bb.img[7] SN2006bp_bb_temp.img
+fcarith SN2006bp_bb_temp.img[1] 365.717 SN2006bp_bb_temp2.img / 
+ftappend SN2006bp_bb_temp2.img SN2006bp_bb_rate.img
+rm SN2006bp_bb_temp.img
+rm SN2006bp_bb_temp2.img
+fextract SN2006bp_bb.img[8] SN2006bp_bb_temp.img
+fcarith SN2006bp_bb_temp.img[1] 365.717 SN2006bp_bb_temp2.img / 
+ftappend SN2006bp_bb_temp2.img SN2006bp_bb_rate.img
+rm SN2006bp_bb_temp.img
+rm SN2006bp_bb_temp2.img
+fextract SN2006bp_bb.img[9] SN2006bp_bb_temp.img
+fcarith SN2006bp_bb_temp.img[1] 365.717 SN2006bp_bb_temp2.img / 
+ftappend SN2006bp_bb_temp2.img SN2006bp_bb_rate.img
+rm SN2006bp_bb_temp.img
+rm SN2006bp_bb_temp2.img
+fextract SN2006bp_bb.img[10] SN2006bp_bb_temp.img
+fcarith SN2006bp_bb_temp.img[1] 365.717 SN2006bp_bb_temp2.img / 
+ftappend SN2006bp_bb_temp2.img SN2006bp_bb_rate.img
+rm SN2006bp_bb_temp.img
+rm SN2006bp_bb_temp2.img
+fextract SN2006bp_bb.img[11] SN2006bp_bb_temp.img
+fcarith SN2006bp_bb_temp.img[1] 365.717 SN2006bp_bb_temp2.img / 
+ftappend SN2006bp_bb_temp2.img SN2006bp_bb_rate.img
+rm SN2006bp_bb_temp.img
+rm SN2006bp_bb_temp2.img
+fextract SN2006bp_bb.img[12] SN2006bp_bb_temp.img
+fcarith SN2006bp_bb_temp.img[1] 365.717 SN2006bp_bb_temp2.img / 
+ftappend SN2006bp_bb_temp2.img SN2006bp_bb_rate.img
+rm SN2006bp_bb_temp.img
+rm SN2006bp_bb_temp2.img
+fextract SN2006bp_bb.img[13] SN2006bp_bb_temp.img
+fcarith SN2006bp_bb_temp.img[1] 365.717 SN2006bp_bb_temp2.img / 
+ftappend SN2006bp_bb_temp2.img SN2006bp_bb_rate.img
+rm SN2006bp_bb_temp.img
+rm SN2006bp_bb_temp2.img
+rm SN2006bp_vv_rate.img
+rm SN2006bp_vv_temp.img
+rm SN2006bp_vv_temp2.img
+fextract SN2006bp_vv.img[0] SN2006bp_vv_rate.img
+fextract SN2006bp_vv.img[1] SN2006bp_vv_temp.img
+fcarith SN2006bp_vv_temp.img[1] 365.674 SN2006bp_vv_temp2.img / 
+ftappend SN2006bp_vv_temp2.img SN2006bp_vv_rate.img
+rm SN2006bp_vv_temp.img
+rm SN2006bp_vv_temp2.img
+fextract SN2006bp_vv.img[2] SN2006bp_vv_temp.img
+fcarith SN2006bp_vv_temp.img[1] 365.674 SN2006bp_vv_temp2.img / 
+ftappend SN2006bp_vv_temp2.img SN2006bp_vv_rate.img
+rm SN2006bp_vv_temp.img
+rm SN2006bp_vv_temp2.img
+fextract SN2006bp_vv.img[3] SN2006bp_vv_temp.img
+fcarith SN2006bp_vv_temp.img[1] 365.674 SN2006bp_vv_temp2.img / 
+ftappend SN2006bp_vv_temp2.img SN2006bp_vv_rate.img
+rm SN2006bp_vv_temp.img
+rm SN2006bp_vv_temp2.img
+fextract SN2006bp_vv.img[4] SN2006bp_vv_temp.img
+fcarith SN2006bp_vv_temp.img[1] 365.674 SN2006bp_vv_temp2.img / 
+ftappend SN2006bp_vv_temp2.img SN2006bp_vv_rate.img
+rm SN2006bp_vv_temp.img
+rm SN2006bp_vv_temp2.img
+fextract SN2006bp_vv.img[5] SN2006bp_vv_temp.img
+fcarith SN2006bp_vv_temp.img[1] 365.674 SN2006bp_vv_temp2.img / 
+ftappend SN2006bp_vv_temp2.img SN2006bp_vv_rate.img
+rm SN2006bp_vv_temp.img
+rm SN2006bp_vv_temp2.img
+fextract SN2006bp_vv.img[6] SN2006bp_vv_temp.img
+fcarith SN2006bp_vv_temp.img[1] 365.674 SN2006bp_vv_temp2.img / 
+ftappend SN2006bp_vv_temp2.img SN2006bp_vv_rate.img
+rm SN2006bp_vv_temp.img
+rm SN2006bp_vv_temp2.img
+fextract SN2006bp_vv.img[7] SN2006bp_vv_temp.img
+fcarith SN2006bp_vv_temp.img[1] 365.674 SN2006bp_vv_temp2.img / 
+ftappend SN2006bp_vv_temp2.img SN2006bp_vv_rate.img
+rm SN2006bp_vv_temp.img
+rm SN2006bp_vv_temp2.img
+fextract SN2006bp_vv.img[8] SN2006bp_vv_temp.img
+fcarith SN2006bp_vv_temp.img[1] 365.674 SN2006bp_vv_temp2.img / 
+ftappend SN2006bp_vv_temp2.img SN2006bp_vv_rate.img
+rm SN2006bp_vv_temp.img
+rm SN2006bp_vv_temp2.img
+fextract SN2006bp_vv.img[9] SN2006bp_vv_temp.img
+fcarith SN2006bp_vv_temp.img[1] 365.674 SN2006bp_vv_temp2.img / 
+ftappend SN2006bp_vv_temp2.img SN2006bp_vv_rate.img
+rm SN2006bp_vv_temp.img
+rm SN2006bp_vv_temp2.img
+fextract SN2006bp_vv.img[10] SN2006bp_vv_temp.img
+fcarith SN2006bp_vv_temp.img[1] 365.674 SN2006bp_vv_temp2.img / 
+ftappend SN2006bp_vv_temp2.img SN2006bp_vv_rate.img
+rm SN2006bp_vv_temp.img
+rm SN2006bp_vv_temp2.img
+fextract SN2006bp_vv.img[11] SN2006bp_vv_temp.img
+fcarith SN2006bp_vv_temp.img[1] 365.674 SN2006bp_vv_temp2.img / 
+ftappend SN2006bp_vv_temp2.img SN2006bp_vv_rate.img
+rm SN2006bp_vv_temp.img
+rm SN2006bp_vv_temp2.img
+fextract SN2006bp_vv.img[12] SN2006bp_vv_temp.img
+fcarith SN2006bp_vv_temp.img[1] 365.674 SN2006bp_vv_temp2.img / 
+ftappend SN2006bp_vv_temp2.img SN2006bp_vv_rate.img
+rm SN2006bp_vv_temp.img
+rm SN2006bp_vv_temp2.img
+fextract SN2006bp_vv.img[13] SN2006bp_vv_temp.img
+fcarith SN2006bp_vv_temp.img[1] 365.674 SN2006bp_vv_temp2.img / 
+ftappend SN2006bp_vv_temp2.img SN2006bp_vv_rate.img
+rm SN2006bp_vv_temp.img
+rm SN2006bp_vv_temp2.img

@@ -1,0 +1,20 @@
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390006/uvot/image/sw00030390006ubb_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390001/uvot/image/sw00030390001uw1_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390001/uvot/image/sw00030390001um2_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390006/uvot/image/sw00030390006uw1_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390006/uvot/image/sw00030390006uvv_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390001/uvot/image/sw00030390001uvv_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390001/uvot/image/sw00030390001ubb_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390001/uvot/image/sw00030390001uuu_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390001/uvot/image/sw00030390001uw2_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390006/uvot/image/sw00030390006uuu_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390006/uvot/image/sw00030390006um2_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390006/uvot/image/sw00030390006uw2_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390027/uvot/image/sw00030390027uw1_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390027/uvot/image/sw00030390027uuu_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390027/uvot/image/sw00030390027uw2_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390027/uvot/image/sw00030390027ubb_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390027/uvot/image/sw00030390027uvv_sk.img.gz
+wget -q -nH --cut-dirs=5 -r -l0 -c -N -np -R 'index*' -erobots=off --retr-symlinks http://heasarc.gsfc.nasa.gov/FTP/swift/data/obs/2006_04//00030390027/uvot/image/sw00030390027um2_sk.img.gz
+
+
