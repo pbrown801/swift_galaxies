@@ -1,0 +1,20 @@
+ds9 -scale log -rgb -red SN2010ko_vv_sum.img* -green SN2010ko_uu_sum.img* -blue SN2010ko_m2_sum.img*  -rgb -red SN2011fi_vv_sum.img* -green SN2011fi_uu_sum.img* -blue SN2011fi_m2_sum.img* -rgb -red SN2013ex_vv_sum.img* -green SN2013ex_uu_sum.img* -blue SN2013ex_m2_sum.img*  &
+
+convert   -delay 50   -loop 0   SN2010ko_uvot.png  SN2011fi_uvot.png  SN2013ex_uvot.png    NGC1954_SwiftSNe.gif
+
+
+ds9 -scale log -rgb -red SN2005cs_vv_sum.img* -green SN2005cs_uu_sum.img* -blue SN2005cs_m2_sum.img*  -rgb -red SN2011dh_vv_sum.img* -green SN2011dh_uu_sum.img* -blue SN2011dh_m2_sum.img*   &
+
+convert   -delay 50   -loop 0   SN2005cs_uvot.png  SN2011dh_uvot.png    M51_SwiftSNe.gif
+
+
+
+
+ds9 -scale log -rgb -red SN2006dd/SN2006dd_vv_sum.img* -green SN2006dd/SN2006dd_uu_sum.img* -blue SN2006dd/SN2006dd_m2_sum.img*  -rgb -red SN2006mr/SN2006mr_vv_sum.img* -green SN2006mr/SN2006mr_uu_sum.img* -blue SN2006mr/SN2006mr_m2_sum.img*   &
+
+convert   -delay 50   -loop 0   SN2006dd_uvot.png  SN2006mr_uvot.png    NGC1316_SwiftSNe.gif
+
+
+convert   -delay 50   -loop 0   SN2009ip/SN2009ip_uvot.png  SN2009ip/ASASSN-14jb_uvot.png    NGC7259_SwiftSNe.gif
+
+
